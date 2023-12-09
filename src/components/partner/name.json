@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_partner_names",
+  "info": {
+    "displayName": "Name"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
